@@ -22,7 +22,7 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/payroll-csv-app.git
+   git clone https://github.com/Pavan-Sai-A/payroll-mvp.git
    ```
 2. Navigate to the project directory:
    ```bash
